@@ -3,6 +3,8 @@ A bit info about comparison between several generic NPN Power Transistor
 
 | Transistor |   hfe   | Vceo | Vcesat | Icdc |
 |:----------:|:-------:|:----:|:------:|:----:|
+|   2N3904   |100 - 300| 40V  |   0.3  |  0.2 |
+| | | | |
 | 2SC1162    |60 - 320 | 35V  |   1V   |  2.5 |
 | 2SC1162B   |60 - 120 |      |        |      |
 | 2SC1162C   |100 - 200|      |        |      |
