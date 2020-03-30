@@ -18,4 +18,8 @@ A bit info about comparison between several generic NPN Power Transistor
 | BD139-10   |63 - 160 |      |        |      |
 | BD139-16   |100 - 250|      |        |      |
 | | | | |
-
+|   2N6740   | 10 - 40 | 400  |    2   |   8  |
+| | | | |
+|  MJE13005  | 10 - 60 | 400  |    1   |   4  |
+|  MJE13009  |  8 - 40 | 400  |    2   |   1  |
+| | | | |
